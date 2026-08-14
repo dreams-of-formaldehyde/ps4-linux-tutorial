@@ -83,7 +83,7 @@ You can of course use other distros, but you do run the risk of breaking your di
 ### More distros
 Here are the distros that we can't recommend anymore, as they have been superseeded, or haven't had any major updates in a while.
 
-It may be useful to you if you want something other than Arch, or if you have a Baikal southbridge.
+It may be useful to you if you want something other than Arch. These distros are not guaranteed support in our Discord, due to the mesa issues (and many more) we keep getting in our channels.
 
 ::: details Click here to show more distros
 
